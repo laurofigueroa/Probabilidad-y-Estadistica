@@ -8,20 +8,20 @@ PCLinuxOS        1102    n    12
 Manjaro          1023	 n    12
 Arch             1002    n    0
 Puppy             866    n    12
-elementary        782    
-CentOS            767    s
-Zorin             743
-FreeBSD           705    n
-CrunchBang        686
-Lubuntu           625    n
-SparkyLinux       557
-Kali              555
-Slackware         534    n
-Bodhi             532
-Xubuntu           498    n
-Kubuntu           469    n
-Sabayon           463
-Ubuntu GNOME      453    n
+elementary        782    s    24 <-
+CentOS            767    s    24-36
+Zorin             743    s    6
+FreeBSD           705    n    24
+CrunchBang        686    n    24
+Lubuntu           625    n    6
+SparkyLinux       557    n    24
+Kali              555    s    24
+Slackware         534    n    36
+Bodhi             532    n    24 <-
+Xubuntu           498    n    6
+Kubuntu           469    n    6
+Sabayon           463    n    1 <- 24
+Ubuntu GNOME      453    n    6
 Ultimate          429
 Simplicity        423
 Lite              398
