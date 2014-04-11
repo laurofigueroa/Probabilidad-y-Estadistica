@@ -1,0 +1,50 @@
+Mint             3604    n    6
+Ubuntu           1986    s    6
+Debian           1916    n    24
+Mageia           1567    n    12
+Fedora           1387    s    6
+openSUSE         1280    s    24-36
+PCLinuxOS        1102    n    12
+Manjaro          1023	 n    12
+Arch             1002    n    0
+Puppy             866    n    12
+elementary        782    s    24 <-
+CentOS            767    s    24-36
+Zorin             743    s    6
+FreeBSD           705    n    24
+CrunchBang        686    n    24
+Lubuntu           625    n    6
+SparkyLinux       557    n    24
+Kali              555    s    24
+Slackware         534    n    36
+Bodhi             532    n    24 <-
+Xubuntu           498    n    6
+Kubuntu           469    n    6
+Sabayon           463    n    1 <- 24
+Ubuntu GNOME      453    n    6
+Ultimate          429    n    6
+Simplicity        423    n    6
+Lite              398    n    24
+Red Hat           373    s    12
+LXLE              373    n    24
+antiX             365    n    12
+GhostBSD          353    s    24
+Peppermint        352    n    12
+PC-BSD            345    s    24
+Antergos          343    n    12 <-
+Gentoo            336    n    12
+Tails             335    n    1
+Tiny Core         328    n    24
+Pinguy            327    n    6
+KNOPPIX           326    n    36 <-
+ROSA              318    s    12
+OpenMandriva      311    n    12 <-
+Chakra            310    n    12
+Snowlinux         299    n    12 <-
+SolydXK           286    n    12
+Korora            279    n    12
+Salix             273    n    36
+Scientific        271    n    48
+Ubuntu Studio     266    n    6
+Kwheezy           261    n    24
+Mandriva          260    s    12
